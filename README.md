@@ -1,4 +1,4 @@
-# React Exercise I
+# React Exercise I :desktop_computer:
 
 ## Table of Contents
 
@@ -9,9 +9,14 @@
 
 This project was a practice from Free Code Camp. To learn how to build a web width React.
 
-## Installation
+### Screenshot
 
-In the project directory, you can run:
+![Desktop](./assets/Readme/screencapture-localhost-3000.png)
+
+## Installation :desktop_computer: :electric_plug:
+
+- Open your Visual code and a new terminal
+- git clone https://github.com/Crisktina/cards-free-code-camp
 
 ### `npm start`
 
