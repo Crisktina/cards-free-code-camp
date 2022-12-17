@@ -11,7 +11,7 @@ This project was a practice from Free Code Camp. To learn how to build a web wid
 
 ### Screenshot
 
-![Desktop](./assets/Readme/screencapture-localhost-3000.png)
+![Desktop](./src/imagenes/screencapture-localhost-3000.png)
 
 ## Installation :desktop_computer: :electric_plug:
 
